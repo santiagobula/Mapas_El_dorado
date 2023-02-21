@@ -75,7 +75,7 @@ export default function Home() {
           </a>
 
           <a
-            href="  "
+            href="https://el-dorado-oj0w3rows-santiagobula.vercel.app"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
