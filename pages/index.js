@@ -89,7 +89,7 @@ export default function Home() {
           </a>
 
           <a
-            href=" "
+            href="https://nacionales-el-dorado-16225r6oq-santiagobula.vercel.app"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -103,7 +103,7 @@ export default function Home() {
           </a>
 
           <a
-            href=" "
+            href="https://internacionales-el-dorado-6rjaxnjkk-santiagobula.vercel.app"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
