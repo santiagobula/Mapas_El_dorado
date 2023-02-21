@@ -18,7 +18,7 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             Mapas interactivos de&nbsp;
-            <code className={styles.code}>Aeropuerto/El Dorado.BOG</code>
+            <code className={styles.code}>Aeropuerto/ElDorado.BOG</code>
           </p>
           <div>
             <a
@@ -61,7 +61,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://santiagobula.medium.com/aeropuerto-internacional-el-dorado-la-puerta-de-entrada-a-sudamérica-31851ac689b0"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -75,7 +75,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://santiagobula.medium.com/aeropuerto-internacional-el-dorado-la-puerta-de-entrada-a-sudamérica-31851ac689b0"
+            href="  "
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -89,31 +89,30 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href=" "
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Templates <span>-&gt;</span>
+              Nacionales <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
+              Descubre que ciudades de Colombia reciben mas viajeros
             </p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href=" "
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Deploy <span>-&gt;</span>
+              Internacionales <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Instantly deploy your Next.js site to a shareable URL
-              with&nbsp;Vercel.
+              Conoce las ciudades del mundo que más viajeros reciben desde Colombia
             </p>
           </a>
         </div>
