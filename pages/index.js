@@ -22,7 +22,7 @@ export default function Home() {
           </p>
           <div>
             <a
-              href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+              href="https://www.linkedin.com/in/santiago-bula-mosque20/"
               target="_blank"
               rel="noopener noreferrer"
             >
