@@ -53,7 +53,7 @@ export default function Home() {
               src="/thirteen.svg"
               alt="13"
               width={40}
-              height={31}
+              height={41}
               priority
             />
           </div>
